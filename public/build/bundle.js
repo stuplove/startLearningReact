@@ -55,7 +55,7 @@
 			return React.createElement(
 				'div',
 				null,
-				'Helo world'
+				'Hello world'
 			);
 		}
 
