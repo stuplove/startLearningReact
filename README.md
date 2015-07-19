@@ -11,5 +11,6 @@ open public/index.html
 ```
 
 
-01 - Notetaker Introduction - React Video Tutorial free eggheadio
-02 - Up and Running with React and Webpack - React Video Tutorial free eggheadio
+01. Notetaker Introduction - React Video Tutorial free eggheadio
+02. Up and Running with React and Webpack - React Video Tutorial free eggheadio
+03. Basic Routing with React Router - React Video Tutorial free eggheadio
